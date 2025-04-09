@@ -1,2 +1,16 @@
 let a = 1;
 let b = 20;
+
+committing changes (git commit -m "intial commit"
+
+checking commitn - git log
+
+pushing changes (git push origin <branch-name>)
+
+viewing differences (git diff)
+
+creating a new branch (git branch <branch-name>)
+
+switching brancher git checkout <branch-name> or git switch <branch-name>
+
+merging branches (git merge <branch-name>)
