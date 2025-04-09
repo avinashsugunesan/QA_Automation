@@ -16,7 +16,7 @@ function fizzBuzz(a,b){
         else
         {
             console.log(i)
-            console.log(i)
+            console.log("Hello")
         }
     }
 }
