@@ -15,8 +15,9 @@ function fizzBuzz(a,b){
         }
         else
         {
+            let a = 10
             console.log(i)
-            console.log(i)
+            console.log(a)
         }
     }
 }
