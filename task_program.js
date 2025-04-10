@@ -15,7 +15,7 @@ function fizzBuzz(a,b){
         }
         else
         {
-            let a = 10
+            let a = 30
             console.log(i)
             console.log(a)
         }
